@@ -1,0 +1,22 @@
+
+
+.mainBox {
+    text-align: center;
+    background-color: cadetblue;
+    height: 100vh;
+    width: 100%;
+    margin-top: -22px;
+    font-size: 30px;  
+  }
+  h1 {
+    padding: 30px;
+    color:rgb(97, 71, 5);
+  }
+  button {
+    font-size: 30px;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 0;
+    background-color: blueviolet;
+  }
